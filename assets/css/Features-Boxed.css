@@ -1,0 +1,120 @@
+.features-boxed {
+  color: #313437;
+  background-color: #eef4f7;
+}
+
+.features-boxed p {
+  color: #7d8285;
+}
+
+.features-boxed h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 74px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .features-boxed h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.features-boxed .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.features-boxed .intro p {
+  margin-bottom: 0;
+}
+
+.features-boxed .features {
+  padding: 50px 0;
+}
+
+.features-boxed .item {
+  text-align: center;
+}
+
+.features-boxed .item .box {
+  text-align: center;
+  padding: 30px;
+  background-color: #fff;
+  margin-bottom: 30px;
+}
+
+.features-boxed .item .icon {
+  font-size: 60px;
+  color: #1485ee;
+  margin-top: 20px;
+  margin-bottom: 35px;
+  background-color: #0ea0ff;
+  color: #fff;
+  text-align: center;
+  font-size: 50px;
+  background-color: #0ea0ff;
+  color: #fff;
+  height: 70px;
+  width: 70px;
+  line-height: 69px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.features-boxed .item .name {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 8px;
+  margin-top: 0;
+  color: inherit;
+}
+
+.features-boxed .item .description {
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+#btn1 {
+  display: block;
+  /*justify-content: center;*/
+  /*align-items: center;*/
+  /*margin-bottom: 30px;*/
+  /*margin-left: 26rem;*/
+  margin: auto;
+  background-color: #0ea0ff;
+}
+
+#dadbtn {
+  margin: 40px 56px;
+}
+
+#boxshadow {
+  box-shadow: 33 33 33 black;
+  box-shadow: 1px 1px 7px black;
+  /*transition: all;*/
+  /*transition-duration: 5s;*/
+}
+
+.navlogo {
+  height: 50px;
+  margin: 0px 9px 0px 0px;
+}
+
+.innerpad {
+  padding: 6px 1px;
+  font-size: 18px;
+}
+
+.barfontsize {
+  font-size: 20px;
+}
+
+.headfontsize {
+  font-size: 33px;
+}
+
