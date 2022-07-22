@@ -10,12 +10,6 @@ p {
   margin: 20px 20px;
   /*text-decoration: underline;*/
 }
-
-a {
-  /*color: #0d6efd;*/
-  /*text-decoration: underline;*/
-}
-
 a {
   color: #0d6efd;
   /*text-decoration: underline;*/
@@ -31,3 +25,6 @@ a {
   margin: 0px 9px 0px 0px;
 }
 
+.readBtn{
+  margin: 13px ;
+}

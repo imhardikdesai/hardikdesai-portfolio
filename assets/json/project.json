@@ -1,0 +1,39 @@
+{
+    "projects": [
+        {
+            "title": "Calculator app",
+            "discription": "Fans cheering crash was 'mind-blowing' - Hamilton",
+            "imgurl": "assets/img/loft.jpg",
+            "badge": [
+                "javascript",
+                "github",
+                "css"
+            ]
+        },
+        {
+            "title": "News Website",
+            "discription": "A News website which gives latest news about India. This website Build using Plain Venila Javascript. Also it use Fatch API.",
+            "imgurl": "assets/img/loft.jpg"
+        },
+        {
+            "title": "Keep My Notes",
+            "discription": "This is simple Website for taking your daily life task as a note. You can add title and summary about your note.",
+            "imgurl": "assets/img/loft.jpg"
+        },
+        {
+            "title": "Notes app android",
+            "discription": "Fans cheering crash was 'mind-blowing' - Hamilton",
+            "imgurl": "assets/img/loft.jpg"
+        },
+        {
+            "title": "Real Time Clock",
+            "discription": "Basically, I made simple Analog clock using JavaScript.",
+            "imgurl": "assets/img/loft.jpg"
+        },
+        {
+            "title": "React website",
+            "discription": "Fans cheering crash was 'mind-blowing' - Hamilton",
+            "imgurl": "assets/img/loft.jpg"
+        }
+    ]
+}
