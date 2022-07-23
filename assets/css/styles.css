@@ -50,6 +50,6 @@ a {
   align-items: center;
 }
 
-.langIcon {
-  height: 2%;
+.langBadge{
+  margin: 3px 2px;
 }

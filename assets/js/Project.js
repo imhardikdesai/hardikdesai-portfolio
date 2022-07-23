@@ -1,5 +1,6 @@
 let projectBox = document.getElementById('projectBox');
-
+let colorArr = ["primary","success","danger","warning"];
+let language = ["CSS", "Android","HTML","JavaScript"]
 function showProjects() {
     fetch('assets/json/project.json')
         .then(response => response.json())
@@ -13,8 +14,12 @@ function showProjects() {
                                     src="${projects[key].imgurl}">
                                 <h3 class="name">${projects[key].title}</h3>
                                 <p class="description">${projects[key].discription}</p>
-                                <a href="/" target="_blank"><button type="button" class="readBtn btn btn-outline-primary">Read
-                                more</button></a>
+                                <span class="langBadge badge rounded-pill text-white bg-danger">HTML</span>
+                                <span class="langBadge badge rounded-pill text-white bg-primary">CSS</span>
+                                <span class="langBadge badge rounded-pill text-black bg-warning">Javascript</span>
+                                <span class="langBadge badge rounded-pill text-white bg-success">Android</span>
+                                <br>
+                                <a href="${projects[key].liveDemoLink}" target="_blank"><button type="button" class="readBtn btn btn-outline-primary">Live Demo</button></a>
                             </div>
                         `;
             }
@@ -22,4 +27,4 @@ function showProjects() {
         })
         .catch(err => console.error(err));
 }
-// showProjects();
+showProjects();
