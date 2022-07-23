@@ -38,6 +38,7 @@ function showProjects() {
                                 ${returnBadgeHTML()}
                                 <br>
                                 <a href="${projects[key].liveDemoLink}" target="_blank"><button type="button" class="readBtn btn btn-outline-primary">Live Demo</button></a>
+                                <a href="${projects[key].sourceLink}" target="_blank"><button type="button" class="readBtn btn btn-outline-primary">Source Code</button></a>
                             </div>
                         `;
             }
