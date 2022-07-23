@@ -28,3 +28,7 @@ a {
 .readBtn{
   margin: 13px ;
 }
+
+.imgThumbnail{
+  height: 250px;
+}
