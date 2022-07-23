@@ -5,43 +5,83 @@
             "discription": "Fans cheering crash was 'mind-blowing' - Hamilton",
             "imgurl": "assets/img/thumbnails/coding-contest-live.png",
             "liveDemoLink": "https://imhardikdesai.github.io/live-coding-contest/",
-            "badge" : ["<span class=\"badge rounded-pill text-white bg-danger\">HTML</span>"]
+            "badge": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "API",
+                "Bootstrap"
+            ]
         },
         {
             "title": "News Website",
             "discription": "A News website which gives latest news about India. This website Build using Plain Venila Javascript. Also it use Fatch API.",
             "imgurl": "assets/img/thumbnails/news-website.png",
-            "liveDemoLink": "https://imhardikdesai.github.io/news-website/"
+            "liveDemoLink": "https://imhardikdesai.github.io/news-website/",
+            "badge": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "API",
+                "Bootstrap"
+            ]
         },
         {
             "title": "Keep My Notes",
             "discription": "This is simple Website for taking your daily life task as a note. You can add title and summary about your note.",
             "imgurl": "assets/img/thumbnails/notes-app.png",
-            "liveDemoLink": "https://imhardikdesai.github.io/keep-my-notes/"
+            "liveDemoLink": "https://imhardikdesai.github.io/keep-my-notes/",
+            "badge": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Bootstrap"
+            ]
         },
         {
             "title": "Guess the Color Game",
             "discription": "Basically, I made simple Analog clock using JavaScript.",
             "imgurl": "assets/img/thumbnails/guess-the-color-game.png",
-            "liveDemoLink": "https://imhardikdesai.github.io/guess-the-color-game/"
+            "liveDemoLink": "https://imhardikdesai.github.io/guess-the-color-game/",
+            "badge": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Bootstrap"
+            ]
         },
         {
             "title": "Realtime Clock",
             "discription": "Fans cheering crash was 'mind-blowing' - Hamilton",
             "imgurl": "assets/img/thumbnails/realtime-clock.png",
-            "liveDemoLink": "https://imhardikdesai.github.io/real-time-clock/"
+            "liveDemoLink": "https://imhardikdesai.github.io/real-time-clock/",
+            "badge": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "title": "Guess the Number Game",
             "discription": "Fans cheering crash was 'mind-blowing' - Hamilton",
             "imgurl": "assets/img/thumbnails/guess-the-number.png",
-            "liveDemoLink": "https://imhardikdesai.github.io/guess-the-number-game/"
+            "liveDemoLink": "https://imhardikdesai.github.io/guess-the-number-game/",
+            "badge": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "title": "Notes App Android",
             "discription": "Fans cheering crash was 'mind-blowing' - Hamilton",
             "imgurl": "assets/img/thumbnails/notes-app-android.png",
-            "liveDemoLink": "https://github.com/imhardikdesai/notes-app-android"
+            "liveDemoLink": "https://github.com/imhardikdesai/notes-app-android",
+            "badge": [
+                "Android",
+                "Firebase",
+                "JAVA"
+            ]
         }
     ]
 }
