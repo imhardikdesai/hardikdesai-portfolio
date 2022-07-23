@@ -4,19 +4,31 @@ p {
   font-weight: 400;
 }
 
-.h1, h1 {
+nav {
+  background-color: #f1eded !important;
+}
+
+form {
+  border: 1px solid black !important;
+  border-radius: 30px;
+  padding: 0px 14px;
+}
+
+.h1,
+h1 {
   font-size: calc(1.375rem + 1.5vw);
   text-align: center;
   margin: 20px 20px;
   /*text-decoration: underline;*/
 }
+
 a {
   color: #0d6efd;
   /*text-decoration: underline;*/
 }
 
 .shadow {
-  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
   margin-top: 27px;
 }
 
@@ -25,10 +37,19 @@ a {
   margin: 0px 9px 0px 0px;
 }
 
-.readBtn{
-  margin: 13px ;
+.readBtn {
+  margin: 13px;
 }
 
-.imgThumbnail{
+.imgThumbnail {
   height: 250px;
+}
+
+.homepageProjects {
+  /* border: 1px solid black; */
+  align-items: center;
+}
+
+.langIcon {
+  height: 2%;
 }

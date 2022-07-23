@@ -3,7 +3,7 @@
         {
             "title": "Calculator app",
             "discription": "Fans cheering crash was 'mind-blowing' - Hamilton",
-            "imgurl": "assets/img/loft.jpg",
+            "imgurl": "assets/img/thumbnails/coding-contest-live.png",
             "badge": [
                 "javascript",
                 "github",
@@ -13,27 +13,22 @@
         {
             "title": "News Website",
             "discription": "A News website which gives latest news about India. This website Build using Plain Venila Javascript. Also it use Fatch API.",
-            "imgurl": "assets/img/loft.jpg"
+            "imgurl": "assets/img/thumbnails/news-website.png"
         },
         {
             "title": "Keep My Notes",
             "discription": "This is simple Website for taking your daily life task as a note. You can add title and summary about your note.",
-            "imgurl": "assets/img/loft.jpg"
+            "imgurl": "assets/img/thumbnails/notes-app.png"
         },
         {
-            "title": "Notes app android",
-            "discription": "Fans cheering crash was 'mind-blowing' - Hamilton",
-            "imgurl": "assets/img/loft.jpg"
-        },
-        {
-            "title": "Real Time Clock",
+            "title": "Guess the Color Game",
             "discription": "Basically, I made simple Analog clock using JavaScript.",
-            "imgurl": "assets/img/loft.jpg"
+            "imgurl": "assets/img/thumbnails/guess-the-color-game.png"
         },
         {
-            "title": "React website",
+            "title": "Coding Contest Live",
             "discription": "Fans cheering crash was 'mind-blowing' - Hamilton",
-            "imgurl": "assets/img/loft.jpg"
+            "imgurl": "assets/img/thumbnails/coding-contest-live.png"
         }
     ]
 }
