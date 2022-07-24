@@ -1,4 +1,5 @@
 let projectBox = document.getElementById('projectBox');
+
 let langColor = {
     "HTML": "text-white bg-danger",
     "CSS": "text-white bg-primary",
@@ -19,7 +20,7 @@ function showProjects() {
 
             for (key in projects) {
 
-                function returnBadgeHTML() {
+                function returnBadgeHTML() {  // for showing language badge in every project
                     let htm = "";
 
                     let Language = projects[key].badge;
@@ -43,6 +44,7 @@ function showProjects() {
                         `;
             }
             projectBox.innerHTML = str;
+
         })
         .catch(err => console.error(err));
 }
