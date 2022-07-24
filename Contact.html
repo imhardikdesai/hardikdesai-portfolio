@@ -55,36 +55,50 @@
         <div>
             <section class="register-photo">
                 <div class="form-container">
-                    <form method="post"
+                    <form id="contactForm" onsubmit="showCustomPage()" method="post" target="_blank"
                         action="https://script.google.com/macros/s/AKfycby3alMx5O6iCxYSCGyAqXiwOZkgm0iLnIV3SqHQLZquNH4g-oXgjHcYUqziRZk1VI7rJg/exec">
                         <h2 class="text-center"><strong>Hire me</strong></h2>
 
-                        <div class="mb-3"><input class="form-control" type="text" name="name" placeholder="Name"
-                                required=""></div>
+                        <div class="mb-3">
+                            <input class="form-control" type="text" name="name" placeholder="Name" required="">
+                        </div>
 
-                        <div class="mb-3"><input class="form-control" type="email" name="email" placeholder="Email"
-                                required=""></div>
+                        <div class="mb-3">
+                            <input class="form-control" type="email" name="email" placeholder="Email" required="">
+                        </div>
 
-                        <div class="mb-3"><input class="form-control" type="tel" name="phone"
-                                placeholder="Phone (optional)"></div>
+                        <div class="mb-3">
+                            <input class="form-control" type="tel" name="phone" placeholder="Phone (optional)">
+                        </div>
 
-                        <div class="mb-3"><textarea class="form-control" placeholder="message" name="message" rows="10"
-                                cols="10" required=""></textarea></div>
+                        <div class="mb-3">
+                            <textarea class="form-control" placeholder="message" name="message" rows="10" cols="10"
+                                required=""></textarea>
+                        </div>
 
-                        <div class="mb-3"><button class="btn btn-primary d-block w-100" type="submit">Send</button>
+                        <div class="mb-3">
+                            <button class="btn btn-primary d-block w-100" type="submit">Send</button>
                         </div>
                     </form>
                 </div>
             </section>
         </div>
     </section>
-
     <footer class="footer-basic">
-        <div class="social"><a data-bss-hover-animate="tada" href="#"><i class="icon ion-social-instagram"></i></a><a
-                data-bss-hover-animate="tada" href="#"><i class="icon ion-social-snapchat"></i></a><a
-                data-bss-hover-animate="tada" href="#"><i class="icon ion-social-twitter"></i></a><a
-                data-bss-hover-animate="tada" href="#"><i
-                    class="icon ion-social-facebook icon ion-social-linkedin"></i></a></div>
+        <div class="social">
+            <a data-bss-hover-animate="tada" href="#">
+                <i class="icon ion-social-instagram"></i>
+            </a>
+            <a data-bss-hover-animate="tada" href="#">
+                <i class="icon ion-social-snapchat"></i>
+            </a>
+            <a data-bss-hover-animate="tada" href="#">
+                <i class="icon ion-social-twitter"></i>
+            </a>
+            <a data-bss-hover-animate="tada" href="#">
+                <i class="icon ion-social-facebook icon ion-social-linkedin"></i>
+            </a>
+        </div>
         <ul class="list-inline">
             <li class="list-inline-item"><a href="index.html">Home</a></li>
             <li class="list-inline-item"><a href="About.html">About</a></li>
@@ -93,6 +107,7 @@
         </ul>
         <p class="copyright">Copyright © 2020-2021 hardikdesai.myartsonline.com<br></p>
     </footer>
+    <script src="assets/js/contact.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/bs-init.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
