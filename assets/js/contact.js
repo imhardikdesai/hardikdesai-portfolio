@@ -1,7 +1,5 @@
 let contactForm = document.getElementById('contactForm');
 
-function showCustomPage() {
+function onFormSubmit() {
     contactForm.reset();
-    window.open('assets/Pages/ThankYou.html', '_blank');
-    console.log("Done");
 }

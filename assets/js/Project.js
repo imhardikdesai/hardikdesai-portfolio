@@ -5,10 +5,11 @@ let langColor = {
     "CSS": "text-white bg-primary",
     "Javascript": "text-black bg-warning",
     "Android": "text-white bg-success",
-    "API": "text-black bg-info",
+    "API": "text-white bg-secondary",
     "Bootstrap": "text-white bg-primary",
     "Firebase": "text-black bg-warning",
-    "JAVA": "text-white bg-secondary"
+    "JAVA": "text-white bg-secondary",
+    "React Js": "text-black bg-info",
 }
 
 function showProjects() {
