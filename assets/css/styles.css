@@ -53,3 +53,10 @@ a {
 .langBadge{
   margin: 3px 2px;
 }
+/* .skillsIcons:hover {
+  height: 105px;
+  transition: .5s;
+  } */
+.skillsIcons{
+  height: 100px;
+}
