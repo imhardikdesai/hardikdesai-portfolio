@@ -43,7 +43,7 @@
         },
         {
             "title": "Guess the Color Game",
-            "discription": "Basically, I made simple Analog clock using JavaScript.",
+            "discription": "This is a game where you have given RGB value of color and bellow there are six color box. You have to guess that color box from given RGB value.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/180635610-f67323bf-c026-4b4f-a019-45335aeb7ad2.png",
             "liveDemoLink": "https://imhardikdesai.github.io/guess-the-color-game/",
             "sourceLink": "https://github.com/imhardikdesai/guess-the-color-game",
