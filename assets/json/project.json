@@ -89,6 +89,20 @@
                 "Firebase",
                 "JAVA"
             ]
+        },
+        {
+            "title": "QR Code Generator",
+            "discription": "An Utility will help you to Convert any Given Text or Link into QR Code.",
+            "imgurl": "https://user-images.githubusercontent.com/87645745/185958084-668cab60-6f1f-4880-9f92-5530f5f9c1a6.png",
+            "liveDemoLink": "https://imhardikdesai.github.io/qr-code-generator/",
+            "sourceLink": "https://github.com/imhardikdesai/qr-code-generator",
+            "badge": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Bootstrap",
+                "API"
+            ]
         }
     ]
 }
