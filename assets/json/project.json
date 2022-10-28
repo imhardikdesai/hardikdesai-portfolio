@@ -1,8 +1,48 @@
 {
     "projects": [
         {
+            "title": "Weather Finder",
+            "description": "A React weather app where the user can get real-time weather information for any city 🌦️",
+            "imgurl": "https://user-images.githubusercontent.com/87645745/198541198-19ab97e1-4941-40ae-82cb-1f121050541f.png",
+            "liveDemoLink": "https://weather-finder-app-react.netlify.app/",
+            "sourceLink": "https://github.com/imhardikdesai/Weather-App-React",
+            "badge": [
+                "React Js",
+                "Javascript",
+                "Bootstrap",
+                "API"
+            ]
+        },
+        {
+            "title": "Patel Boarding",
+            "description": "Hostel website for G.M. Vanani 'niru' PATEL BOARDING. This website is built with React JS.",
+            "imgurl": "https://user-images.githubusercontent.com/87645745/198543316-8b3bcd53-11f0-4fcd-97ea-eba6f901061b.png",
+            "liveDemoLink": "https://patelboardingbvn.netlify.app/",
+            "sourceLink": "https://github.com/imhardikdesai/patel-boarding-web-react",
+            "badge": [
+                "React Js",
+                "Javascript",
+                "Bootstrap",
+                "API"
+            ]
+        },
+        {
+            "title": "Kiks Square Store",
+            "description": "Shoes store web app project using HTML, CSS, and Javascript which displays a many-to-many relationship using API by connecting shoes brands to shoe stores.",
+            "imgurl": "https://user-images.githubusercontent.com/87645745/198543708-0ef49b41-5385-48fe-9b6a-2a3f58cd6e1c.png",
+            "liveDemoLink": "https://kiks-square-store.netlify.app/",
+            "sourceLink": "https://github.com/imhardikdesai/Kiks-Square-Store",
+            "badge": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
             "title": "Live Coding Contest",
-            "discription": "This is Live coding website will provide information about Realtime Live hackathon in different sites.",
+            "description": "This is Live coding website will provide information about Realtime Live hackathon in different sites.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/180635605-86e30ef7-7d20-424a-a94a-30b9251a3cce.png",
             "liveDemoLink": "https://imhardikdesai.github.io/live-coding-contest/",
             "sourceLink": "https://github.com/imhardikdesai/live-coding-contest",
@@ -16,7 +56,7 @@
         },
         {
             "title": "News Website",
-            "discription": "A News website which gives latest news about India. This website Build using Plain Venila Javascript. Also it use Fatch API.",
+            "description": "A News website which gives latest news about India. This website Build using Plain Venila Javascript. Also it use Fatch API.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/180635616-285a6ec6-1222-4c8b-806c-2013a8b2d9fc.png",
             "liveDemoLink": "https://imhardikdesai.github.io/news-website/",
             "sourceLink": "https://github.com/imhardikdesai/news-website",
@@ -30,7 +70,7 @@
         },
         {
             "title": "Keep My Notes",
-            "discription": "This is simple Website for taking your daily life task as a note. You can add title and summary about your note.",
+            "description": "This is simple Website for taking your daily life task as a note. You can add title and summary about your note.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/180635621-78f1d20b-b870-492b-b372-1a5f0e06b591.png",
             "liveDemoLink": "https://imhardikdesai.github.io/keep-my-notes/",
             "sourceLink": "https://github.com/imhardikdesai/keep-my-notes",
@@ -43,7 +83,7 @@
         },
         {
             "title": "Guess the Color Game",
-            "discription": "This is a game where you have given RGB value of color and bellow there are six color box. You have to guess that color box from given RGB value.",
+            "description": "This is a game where you have given RGB value of color and bellow there are six color box. You have to guess that color box from given RGB value.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/180635610-f67323bf-c026-4b4f-a019-45335aeb7ad2.png",
             "liveDemoLink": "https://imhardikdesai.github.io/guess-the-color-game/",
             "sourceLink": "https://github.com/imhardikdesai/guess-the-color-game",
@@ -56,7 +96,7 @@
         },
         {
             "title": "Realtime Clock",
-            "discription": "Basically, I made simple Analog clock using JavaScript. Shows Current time.",
+            "description": "Basically, I made simple Analog clock using JavaScript. Shows Current time.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/180635630-33a6f094-1b69-4cda-a769-fa3dba682eeb.png",
             "liveDemoLink": "https://imhardikdesai.github.io/real-time-clock/",
             "sourceLink": "https://github.com/imhardikdesai/real-time-clock",
@@ -68,7 +108,7 @@
         },
         {
             "title": "Guess the Number Game",
-            "discription": "In this Game Computer will guess the number between 1 to 100. And your task is to find that number in 10 Chance.",
+            "description": "In this Game Computer will guess the number between 1 to 100. And your task is to find that number in 10 Chance.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/180635615-f7338270-ef1d-417d-89f5-321489f9b5bf.png",
             "liveDemoLink": "https://imhardikdesai.github.io/guess-the-number-game/",
             "sourceLink": "https://github.com/imhardikdesai/guess-the-number-game",
@@ -80,7 +120,7 @@
         },
         {
             "title": "Notes App Android",
-            "discription": "Notes App Will collect your task as a note. You can add title and content. also you can save changes in firebase. This app will provide authentication to user, also give facility to recover password.",
+            "description": "Notes App Will collect your task as a note. You can add title and content. also you can save changes in firebase. This app will provide authentication to user, also give facility to recover password.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/180635628-f74f313e-22b9-4a11-88c3-48f412d82816.png",
             "liveDemoLink": "https://github.com/imhardikdesai/notes-app-android",
             "sourceLink": "https://github.com/imhardikdesai/notes-app-android",
@@ -92,7 +132,7 @@
         },
         {
             "title": "QR Code Generator",
-            "discription": "An Utility will help you to Convert any Given Text or Link into QR Code.",
+            "description": "An Utility will help you to Convert any Given Text or Link into QR Code.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/185958084-668cab60-6f1f-4880-9f92-5530f5f9c1a6.png",
             "liveDemoLink": "https://imhardikdesai.github.io/qr-code-generator/",
             "sourceLink": "https://github.com/imhardikdesai/qr-code-generator",

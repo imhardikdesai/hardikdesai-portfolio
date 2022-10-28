@@ -16,7 +16,7 @@ function showHomePageProjects() {
                                     </div>
                                     <div class="col text-center">
                                         <h3 class="name">${projects[i].title}</h3>
-                                        <p class="description">${projects[i].discription}</p>
+                                        <p class="description">${projects[i].description}</p>
                                         <a href="${projects[i].liveDemoLink}" target="_blank">
                                             <button type="button" class="readBtn btn btn-outline-primary btn-sm">Live Demo</button>
                                         </a>
