@@ -14,6 +14,20 @@
             ]
         },
         {
+            "title": "Feedback Dashboard for Police",
+            "description": "About Citizens can easily give feedback. Mobile web browser-based interface. Officers can get details of quality of service of any police station by analysis of related data. Web/App based interface for Police Officers.",
+            "imgurl": "https://user-images.githubusercontent.com/87645745/201719968-50c43e37-0942-4541-9b91-5665a8b82723.png",
+            "liveDemoLink": "https://feedback-portal-police.netlify.app/",
+            "sourceLink": "https://github.com/imhardikdesai/Feedback-Dashboard-For-Police",
+            "badge": [
+                "Bootstrap",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "API"
+            ]
+        },
+        {
             "title": "Patel Boarding",
             "description": "Hostel website for G.M. Vanani 'niru' PATEL BOARDING. This website is built with React JS.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/198543316-8b3bcd53-11f0-4fcd-97ea-eba6f901061b.png",
