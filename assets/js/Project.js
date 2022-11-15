@@ -13,7 +13,7 @@ let langColor = {
 }
 
 function showProjects() {
-    fetch('assets/json/project.json')
+    fetch('https://raw.githubusercontent.com/imhardikdesai/JSON-Data/main/Hardik-Desai-Portfolio/project.json')
         .then(response => response.json())
         .then(data => {
             let str = "";
